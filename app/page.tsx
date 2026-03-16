@@ -8,11 +8,8 @@ gsap.registerPlugin(ScrollTrigger, SplitText);
 
 const page = () => {
   return (
-    <div className="h-screen">
+    <div className="">
       <Hero />
-      <div className="h-dvh bg-black">
-
-      </div>
     </div>
   );
 };
